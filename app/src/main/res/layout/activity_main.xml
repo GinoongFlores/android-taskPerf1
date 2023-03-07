@@ -38,7 +38,11 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_marginStart="52dp"
+=======
+        android:layout_marginStart="32dp"
+>>>>>>> 10734adb94cd7a267e72e0b0b652067b48b5e068
         android:layout_marginTop="2dp"
         android:layout_marginBottom="712dp"
         android:fontFamily="@font/open_sans"
@@ -49,7 +53,11 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< HEAD
         app:layout_constraintVertical_bias="0.625"
+=======
+        app:layout_constraintVertical_bias="1.0"
+>>>>>>> 10734adb94cd7a267e72e0b0b652067b48b5e068
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -65,7 +73,11 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< HEAD
         app:layout_constraintVertical_bias="0.285"
+=======
+        app:layout_constraintVertical_bias="0.6"
+>>>>>>> 10734adb94cd7a267e72e0b0b652067b48b5e068
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="24dp" />
 
@@ -159,6 +171,7 @@
         android:layout_height="40dp"
         app:srcCompat="@drawable/python"
         tools:ignore="MissingConstraints"
+<<<<<<< HEAD
         tools:layout_editor_absoluteX="230dp"
         tools:layout_editor_absoluteY="574dp" />
 
@@ -169,6 +182,9 @@
         app:srcCompat="@drawable/javascript"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="162dp"
+=======
+        tools:layout_editor_absoluteX="205dp"
+>>>>>>> 10734adb94cd7a267e72e0b0b652067b48b5e068
         tools:layout_editor_absoluteY="574dp" />
 
     <ImageView
@@ -177,7 +193,11 @@
         android:layout_height="40dp"
         app:srcCompat="@drawable/sql"
         tools:ignore="MissingConstraints"
+<<<<<<< HEAD
         tools:layout_editor_absoluteX="290dp"
+=======
+        tools:layout_editor_absoluteX="265dp"
+>>>>>>> 10734adb94cd7a267e72e0b0b652067b48b5e068
         tools:layout_editor_absoluteY="574dp" />
 
     <ImageView
@@ -186,7 +206,20 @@
         android:layout_height="40dp"
         app:srcCompat="@drawable/java"
         tools:ignore="MissingConstraints"
+<<<<<<< HEAD
         tools:layout_editor_absoluteX="98dp"
+=======
+        tools:layout_editor_absoluteX="73dp"
+        tools:layout_editor_absoluteY="574dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/javascript"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="137dp"
+>>>>>>> 10734adb94cd7a267e72e0b0b652067b48b5e068
         tools:layout_editor_absoluteY="574dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
